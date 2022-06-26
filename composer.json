@@ -1,0 +1,18 @@
+{
+    "name": "dima/php-tests",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dima\\PhpTests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "prozet",
+            "email": "abcd-xyz@list.ru"
+        }
+    ],
+    "require-dev": {
+        "webmozart/assert": "^1.11"
+    }
+}
