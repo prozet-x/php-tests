@@ -1,14 +1,13 @@
 {
-    "name": "dima/php-tests",
-    "type": "library",
+    "name": "prozex/php-tests",
     "autoload": {
         "psr-4": {
-            "Dima\\PhpTests\\": "src/"
+            "Prozex\\PhpTests\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "prozet",
+            "name": "Dmitriy Nesterovich",
             "email": "abcd-xyz@list.ru"
         }
     ],
